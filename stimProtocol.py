@@ -1,0 +1,9 @@
+protChannel = 1
+protDuration = 500 #duration, in milliseconds, of each pulse
+# DELAY = 1 #duration, in illiseconds, 
+protInterval = 1000 #duration, in milliseconds, of the time interval between the beginning of consecutive pulses (includes the length of the pulse)
+protTime = 5 #duration, in seconds for which trains of pulses should be applied 
+protNumPulses = 5 #number of pulses per train
+protTriggerWait = 2 #duration, in seconds, of the pause between trains of pulses (includes train time)
+protStimOff = 60 #duration, in seconds, of the period of time for which the stimulator should be turned off
+protStimOn = 60 #duration, in seconds, of the period of time for which the stimulator should be turned on 
